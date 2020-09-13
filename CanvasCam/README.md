@@ -1,6 +1,6 @@
 # CanvasCam
 
-A new Flutter project.
+CanvasCam is a hybrid app built using Flutter for the best performance. It uses OpenCV for android for edge detection which makes cropping easy.
 
 ## Getting Started
 
